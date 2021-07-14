@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+background: linear-gradient(#FF8C00, #FF6347);
+margin: 0 15%;
+font-family: 'DM Serif Text', serif;
+text-align: center;
+}
+a:hover {
+color: #FFD700;
+background-color: #fff;
+}
+h1 {
+text-align: center;
+font-family: 'DM Serif Text', serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 2px solid #FFD700;
+margin-top: 30px;
+text-shadow: .05em .05em .1em #FFD700;
+font-size: 3em;
+
+
+}
+h2 {
+text-shadow: .05em .05em .1em #FFD700;
+color: #black;
+font-size: 2em;
+text-align: center;
+
+
+}
+footer {
+
+	  border-top: 2px solid #FFD700;
+	  text-align: center;
+	  padding-top: 1em;
+}
+footer img {
+	width: 40px;
+	height: 40px;
+	margin-left: .5em;
+	margin-right: .5em;
+}
