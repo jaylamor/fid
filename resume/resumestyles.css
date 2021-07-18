@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+text-align: center;
+background-color: #C018EE;
+margin: 0 15%;
+font-family: 'Boogaloo', cursive;
+}
+a:hover {
+color: #ADD8E6;
+background-color: #fff;
+}
+h1 {
+color:#00008b;
+text-align: center;
+font-family: 'Boogaloo', cursive;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 2px solid #00008b;
+margin-top: 30px;
+text-shadow: .05em .05em .1em #ADD8E6;
+font-size: 4em;
+}
+h2 {
+text-shadow: .05em .05em .1em #ADD8E6;
+text-align: center;
+color: #00008b;
+font-size: 2em;
+text-transform: uppercase;
+}
+
+ ul {
+  list-style-type: none;
+ }
+strong {
+color: #ADD8E6;
+}
