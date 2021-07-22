@@ -1,0 +1,1 @@
+This site is for J's Sweets. Goes into different treats they offer and also how to order them. 
